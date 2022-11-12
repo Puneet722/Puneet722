@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Neural Network and Deep Learning**
+- 🌱 I’m currently learning **Machine Learing by Andrew Ng**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
